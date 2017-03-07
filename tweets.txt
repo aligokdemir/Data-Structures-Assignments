@@ -82,7 +82,7 @@
 82	RT @nodenow: USSD MENUS DEVELOPMENT by lensonk https://t.co/jwifQZcNso #cprogramming #javascript #php #softwarearchitecture #xml
 83	RT @HackerEarth: The #python vs #Cprogramming challenge. #ProgrammingFun https://t.co/X4GmcpazPv
 84	#Freelance #job - software to control account paypal by mql4trader https://t.co/BUiD2Nwt8n #cprogramming
-85 Audio Ocr to text by AliElegant https://t.co/E4E4KGEuow Hello!! #net #cprogramming
+85  Audio Ocr to text by AliElegant https://t.co/E4E4KGEuow Hello!! #net #cprogramming
 86	--> osx_newb has joined #cprogramming <osx_newb&gt; helo? &lt;Vulpyne&gt; 250 Vulpyne
 87	#IngenuityDias #CProgramming #StorageClasses #InterviewQuestions Basics Viva Tutorials: 1.Longevity of a variableÉ https://t.co/dejhNCOQ1G
 88	"""#IngenuityDias #CProgramming #StorageClasses #InterviewQuestions Basics Viva Tutorials: 1.Longevity of a variableÉ https://t.co/FAEqX4520X"""
